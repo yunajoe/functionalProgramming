@@ -6,7 +6,7 @@
 - side-effect, side-effects가 있는 함수, impure function 이라고 한다
 - 예를 들어, 이메일 보내기, 데이터 베이스 읽기
 
-## 계산(caculate)
+계산(caculate)
 
 - 입력으로 출력을 계산한다
 - pure function, mathmatical function이라 부른다
